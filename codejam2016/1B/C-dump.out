@@ -1,0 +1,100 @@
+{'QUAIL': 2, 'HYDROCARBON': 1} {'COMBUSTION': 2, 'BEHAVIOR': 1}
+{'SPACE': 1, 'CODE': 1, 'PEARL': 1} {'JAM': 3}
+{'PLANETARY': 1, 'INTERGALACTIC': 1} {'INTERGALACTIC': 1, 'PLANETARY': 1}
+{'BB': 2, 'CH': 2, 'YQ': 2, 'OG': 2, 'AV': 2, 'LT': 2, 'SV': 2, 'LQ': 1} {'VM': 2, 'BM': 2, 'XE': 2, 'DR': 2, 'XD': 2, 'WM': 1, 'BI': 2, 'DH': 2}
+{'DF': 2, 'BJ': 2, 'VC': 2, 'DB': 2, 'OT': 2, 'YM': 2, 'EY': 2} {'CU': 7, 'GG': 7}
+{'IZ': 1, 'DV': 2, 'YZ': 1, 'WB': 2, 'TZ': 1, 'BA': 1} {'ZC': 1, 'ZE': 1, 'OS': 2, 'XF': 1, 'EM': 2, 'NK': 1}
+{'CB': 1, 'EB': 2, 'RE': 1, 'YT': 1, 'ZJ': 1, 'NR': 3, 'EL': 1, 'BK': 1, 'XX': 2, 'TG': 1, 'NQ': 1, 'JC': 1} {'CB': 2, 'FA': 1, 'DM': 2, 'XT': 1, 'PM': 1, 'WB': 1, 'NZ': 3, 'OK': 1, 'EN': 1, 'YO': 1, 'EY': 1, 'PC': 1}
+{'IQ': 1, 'FX': 1, 'NW': 1, 'UY': 1, 'PR': 1, 'TP': 3, 'ZJ': 2} {'CA': 3, 'XB': 1, 'GP': 1, 'OX': 1, 'DM': 1, 'HD': 1, 'SI': 1, 'RP': 1}
+{'KR': 2, 'BW': 2, 'ZV': 3, 'CG': 3} {'MS': 2, 'ZC': 1, 'BS': 3, 'CV': 1, 'OO': 3}
+{'QO': 3, 'AT': 3, 'RY': 3} {'EL': 3, 'FU': 3, 'BL': 3}
+{'BL': 1, 'IL': 1, 'RS': 2, 'ZB': 1, 'XE': 2, 'WN': 1, 'RV': 2, 'DW': 2} {'MX': 2, 'GJ': 1, 'TW': 2, 'GD': 2, 'YA': 1, 'EE': 2, 'KK': 2}
+{'QV': 1, 'FA': 2, 'CK': 2, 'UX': 3, 'EU': 3, 'LG': 1} {'II': 1, 'KE': 3, 'ZF': 2, 'QR': 2, 'GM': 2, 'ZZ': 1, 'IN': 1}
+{'AB': 1, 'XN': 1, 'VV': 2, 'LH': 1, 'GX': 1} {'UT': 1, 'XM': 1, 'JA': 2, 'DW': 2}
+{'ZE': 2, 'DX': 2, 'AD': 2, 'TW': 1, 'NU': 4, 'MQ': 2, 'OE': 1} {'XL': 1, 'HW': 4, 'VD': 3, 'AG': 1, 'BD': 2, 'LV': 2, 'DW': 1}
+{'JP': 1, 'RC': 3, 'SV': 2, 'UV': 2, 'DJ': 1} {'JO': 2, 'NS': 2, 'FB': 2, 'EB': 1, 'BF': 1, 'PC': 1}
+{'ZM': 2, 'KN': 2} {'UH': 2, 'DQ': 2}
+{'YP': 2, 'YG': 2, 'VV': 1, 'JL': 2, 'WS': 2, 'XZ': 2, 'HY': 2, 'AO': 2} {'PU': 2, 'EA': 2, 'NF': 2, 'OX': 1, 'OG': 2, 'TG': 2, 'HY': 2, 'UB': 2}
+{'ZC': 2, 'NE': 3, 'DB': 1, 'DA': 2, 'DP': 1} {'JE': 2, 'FS': 2, 'YF': 1, 'DK': 1, 'ZI': 1, 'PX': 2}
+{'MAP': 1, 'DELAY': 1, 'RELATION': 1, 'COST': 2, 'INTEGRAL': 2, 'GEODESIC': 1, 'PALINDROMIC': 1, 'CORRELATED': 2, 'MEMBERSHIP': 1} {'EQUIVALENCE': 2, 'CONNECTIVITY': 1, 'CONVERGENCE': 1, 'BRANCHING': 1, 'SPACE': 2, 'CHANNELS': 3, 'ARRAYS': 2}
+{'IJ': 1, 'CV': 2, 'KI': 2, 'DA': 2, 'EZ': 2, 'MI': 2, 'BL': 2, 'TV': 2} {'HM': 2, 'MG': 2, 'UJ': 2, 'KT': 1, 'FV': 2, 'LR': 2, 'SB': 2, 'OO': 2}
+{'XY': 1, 'XV': 1, 'IX': 1, 'JE': 2, 'LH': 2, 'WV': 1, 'QK': 1, 'HB': 1, 'PS': 2, 'TF': 1, 'BR': 2} {'YU': 1, 'IK': 2, 'DL': 1, 'TY': 1, 'BR': 2, 'NK': 1, 'ZJ': 1, 'DS': 1, 'FK': 2, 'ZV': 1, 'FH': 1, 'OS': 1}
+{'YH': 1, 'BW': 2, 'GD': 2, 'FW': 1, 'TV': 1, 'DW': 2} {'QO': 1, 'YP': 2, 'LY': 1, 'RD': 2, 'FU': 1, 'ZE': 2}
+{'UP': 2, 'VU': 1, 'WE': 1, 'MH': 1, 'VW': 1, 'UK': 1, 'XZ': 2, 'IY': 1, 'JT': 1} {'HS': 1, 'RT': 2, 'WL': 3, 'CG': 2, 'WN': 1, 'XW': 1, 'ZW': 1}
+{'LL': 1, 'TV': 3, 'VP': 2, 'WS': 1, 'EV': 2, 'DN': 2, 'KF': 2} {'NI': 1, 'XA': 1, 'TS': 1, 'LI': 1, 'KB': 1, 'FR': 1, 'GZ': 3, 'NB': 1, 'BD': 2, 'ON': 1}
+{'PZ': 2, 'NE': 1, 'AG': 1, 'RE': 1, 'LQ': 1, 'US': 1, 'PH': 1} {'IF': 1, 'NP': 1, 'LK': 2, 'TG': 1, 'MQ': 2, 'AY': 1}
+{'OA': 2, 'RJ': 1, 'LB': 2, 'VQ': 1, 'LD': 2, 'US': 1, 'CL': 2, 'FI': 2, 'JY': 3} {'QW': 1, 'SY': 2, 'RE': 3, 'JI': 1, 'CS': 3, 'EA': 1, 'PJ': 2, 'OU': 2, 'GN': 1}
+{'DF': 2, 'WF': 1, 'VU': 1, 'TY': 1, 'VN': 2, 'ZD': 1, 'XM': 2, 'ET': 2, 'LP': 3} {'MB': 1, 'TS': 3, 'ZA': 1, 'WR': 1, 'RW': 1, 'HW': 2, 'LC': 2, 'GV': 1, 'SU': 3}
+{'GJ': 1, 'BJ': 1, 'GU': 1, 'HC': 1, 'QF': 4, 'XY': 3, 'YA': 2, 'QX': 2} {'MA': 2, 'PJ': 2, 'QS': 1, 'YS': 1, 'TN': 1, 'NO': 3, 'GV': 3, 'OO': 2}
+{'KL': 2, 'YN': 2, 'DK': 1, 'MP': 2, 'BD': 2, 'OK': 2, 'BQ': 4, 'FZ': 1} {'YC': 4, 'KY': 2, 'ZU': 2, 'MY': 1, 'IY': 1, 'ZP': 3, 'DG': 2, 'QE': 1}
+{'EO': 1, 'BP': 2, 'RG': 1, 'HC': 1, 'XE': 1, 'JK': 1, 'TE': 1, 'ON': 1, 'PN': 1, 'HX': 3, 'LC': 1} {'XL': 1, 'LY': 2, 'IT': 1, 'NF': 2, 'MH': 1, 'SR': 1, 'TE': 1, 'EZ': 1, 'PL': 1, 'DV': 1, 'YS': 2}
+{'RO': 2, 'VV': 2, 'AU': 2, 'DR': 2, 'GC': 2, 'YX': 1, 'HO': 2, 'LG': 2} {'MC': 2, 'KR': 2, 'NH': 2, 'LU': 1, 'WV': 2, 'QW': 2, 'NE': 2, 'LC': 2}
+{'CV': 2, 'IK': 1, 'VV': 2, 'ED': 1, 'WW': 1, 'HD': 1, 'OO': 2, 'EN': 1, 'DE': 2, 'BJ': 1, 'YI': 1, 'QC': 1} {'HK': 1, 'RG': 2, 'NM': 2, 'IG': 1, 'BT': 1, 'VQ': 1, 'RI': 1, 'PR': 1, 'KN': 2, 'PZ': 2, 'FK': 1, 'GK': 1}
+{'YM': 2, 'EL': 2, 'RJ': 2, 'KN': 2, 'LF': 2, 'TC': 1, 'JC': 2, 'ON': 2} {'TH': 2, 'MA': 1, 'KV': 2, 'JB': 2, 'SZ': 2, 'VF': 2, 'EB': 2, 'VQ': 2}
+{'HI': 2, 'HM': 1, 'JF': 2, 'IL': 1, 'UX': 1, 'JN': 1} {'BS': 1, 'CD': 1, 'SE': 2, 'KP': 2, 'SI': 2}
+{'DL': 1, 'CP': 1, 'RN': 1, 'BR': 1, 'NG': 1, 'EU': 1, 'KC': 1, 'JT': 1} {'YU': 1, 'XY': 2, 'IS': 1, 'AM': 1, 'TN': 1, 'BI': 1, 'UL': 1}
+{'JK': 4, 'ZY': 4} {'JK': 2, 'OS': 2, 'HO': 2, 'TO': 2}
+{'DF': 2, 'KI': 1, 'AD': 1, 'IG': 1, 'GR': 3, 'QT': 3, 'LX': 1, 'AJ': 1, 'GJ': 1, 'LC': 1} {'OI': 3, 'RK': 1, 'UQ': 2, 'ZA': 1, 'LB': 1, 'XY': 1, 'VU': 2, 'WZ': 1, 'OZ': 2, 'HY': 1}
+{'CD': 1, 'HU': 1, 'OX': 2, 'YQ': 2, 'FA': 2, 'UN': 2, 'HN': 2, 'LL': 1, 'YL': 3} {'MR': 2, 'GS': 1, 'UP': 2, 'NO': 1, 'OU': 2, 'NY': 2, 'YX': 1, 'WU': 1, 'NZ': 2, 'YB': 2}
+{'SYMPLECTIC': 1, 'POWER': 1, 'WAVELET': 1, 'HITTING': 2, 'REACHABILITY': 1, 'CAYLEY': 1, 'EULERIAN': 2, 'NUMERICAL': 1, 'CORE': 2, 'LOCAL': 2, 'EIGENVALUE': 1} {'MATCHING': 1, 'EQUIVALENCE': 1, 'PERMUTATIONS': 2, 'FUNCTIONS': 1, 'MATROIDS': 1, 'PROGRAMMING': 1, 'ROUNDING': 2, 'SUBSPACES': 1, 'CONNECTIVITY': 1, 'REACHABILITY': 1, 'GENERATION': 1, 'MONOIDS': 2}
+{'KD': 3, 'NV': 1, 'SC': 1, 'UK': 2, 'XF': 1, 'UL': 2, 'VB': 1, 'GU': 2} {'OJ': 2, 'VA': 2, 'MD': 2, 'BR': 1, 'TQ': 2, 'QX': 2, 'PC': 2}
+{'FB': 1, 'UT': 1, 'GW': 3, 'VX': 1, 'YD': 2, 'WX': 1} {'KX': 1, 'TY': 1, 'GP': 1, 'QW': 2, 'UQ': 1, 'DJ': 2, 'NV': 1}
+{'KQ': 1, 'KN': 1, 'TU': 1, 'SF': 4, 'DG': 2, 'UB': 1} {'KV': 3, 'XB': 1, 'JM': 1, 'RW': 3, 'EF': 1, 'XH': 1}
+{'HU': 1, 'IB': 2, 'LH': 1, 'PZ': 1, 'LM': 2, 'IV': 1, 'TZ': 1, 'OY': 1} {'SS': 1, 'HQ': 1, 'DL': 1, 'FN': 1, 'DB': 2, 'IR': 1, 'YA': 1, 'GI': 2}
+{'VL': 2, 'LI': 3, 'MF': 2, 'GC': 2, 'VE': 4, 'FO': 3} {'WM': 4, 'NB': 4, 'UY': 4, 'DT': 4}
+{'QD': 4, 'UT': 4, 'BX': 4, 'ZM': 4} {'SO': 4, 'AS': 4, 'NW': 4, 'OY': 4}
+{'OQ': 1, 'ZW': 1, 'UZ': 1, 'EP': 1, 'UA': 1, 'BT': 1, 'PQ': 1, 'DN': 1, 'KM': 1, 'JG': 2, 'OK': 2} {'RL': 1, 'RP': 1, 'MK': 1, 'FN': 1, 'NW': 1, 'CP': 1, 'ZZ': 1, 'NB': 1, 'HO': 2, 'BO': 1, 'MN': 2}
+{'NE': 5, 'PB': 4, 'RZ': 3, 'TF': 1} {'QT': 1, 'XH': 2, 'VC': 1, 'CT': 1, 'DU': 3, 'JY': 2, 'IK': 1, 'SU': 2}
+{'JP': 1, 'YD': 3, 'YO': 3, 'GX': 4, 'EP': 4} {'YI': 1, 'JQ': 5, 'NN': 3, 'AN': 4, 'KI': 2}
+{'YH': 2, 'CC': 2, 'ZW': 2, 'LS': 2, 'ZV': 1, 'SD': 2, 'PN': 2, 'OY': 2} {'YL': 2, 'EC': 2, 'VY': 2, 'ED': 2, 'EM': 1, 'FW': 2, 'LV': 2, 'AI': 2}
+{'PI': 1, 'JP': 1, 'TD': 2, 'EC': 1, 'NN': 1, 'PB': 1, 'MM': 1} {'OJ': 3, 'ZT': 2, 'DU': 2, 'QC': 1}
+{'BB': 2, 'CV': 2, 'WL': 2, 'HX': 2, 'WJ': 2, 'QU': 2, 'JY': 1, 'SG': 2} {'PV': 2, 'XR': 2, 'WE': 2, 'FJ': 2, 'TR': 2, 'FL': 2, 'AF': 1, 'SU': 2}
+{'YV': 6, 'FJ': 6} {'QV': 2, 'ZT': 2, 'JI': 2, 'CZ': 2, 'HY': 2, 'UI': 2}
+{'GH': 1, 'AE': 2, 'IW': 2, 'OK': 1, 'ZZ': 3, 'FO': 1, 'TB': 1} {'XJ': 1, 'DI': 4, 'IX': 1, 'IS': 1, 'HG': 1, 'DW': 1, 'DG': 1, 'OP': 1}
+{'GE': 1, 'FB': 2, 'OX': 1, 'UG': 2, 'OU': 1, 'GC': 1, 'WV': 2, 'TA': 2, 'RI': 4} {'HM': 1, 'MY': 1, 'ZA': 2, 'EW': 2, 'VY': 1, 'LF': 1, 'LE': 2, 'QA': 1, 'UG': 3, 'KO': 2}
+{'BE': 1, 'FM': 2, 'JB': 1, 'HR': 2, 'HT': 1, 'RJ': 1, 'MU': 1, 'PE': 2} {'OA': 1, 'DX': 1, 'QA': 1, 'YV': 2, 'IO': 2, 'QE': 4}
+{'GN': 2, 'BU': 2, 'WY': 2, 'HT': 2} {'DG': 4, 'DB': 4}
+{'ZX': 1, 'HE': 1, 'KE': 1, 'XU': 2, 'KT': 2, 'SH': 2, 'CZ': 2, 'IP': 2} {'XB': 2, 'QK': 2, 'DE': 2, 'ZN': 1, 'JT': 2, 'TL': 2, 'WP': 1, 'WX': 1}
+{'HI': 1, 'JS': 1, 'CS': 1, 'NP': 1, 'GC': 1, 'AG': 2, 'SY': 1, 'PF': 1, 'HC': 1, 'UK': 2, 'SF': 3, 'DD': 1} {'NI': 1, 'AA': 2, 'QE': 1, 'OT': 3, 'PZ': 1, 'MK': 1, 'PS': 1, 'FK': 1, 'PN': 1, 'CM': 3, 'LC': 1}
+{'PROXIMITY': 1, 'CONVERGENCE': 1, 'DISTANCE': 1, 'HAMILTONIAN': 1, 'INFORMATION': 1, 'THRESHOLD': 2, 'HYPERBOLIC': 1, 'CODE': 1, 'ARITHMETIC': 2, 'MULTIWAY': 1, 'UNDIRECTED': 2, 'SUPERQUINTIC': 1} {'TOPOLOGY': 2, 'ASSIGNMENT': 1, 'RANDOMNESS': 1, 'ARITHMETIC': 1, 'STORAGE': 1, 'IDENTITIES': 1, 'MATCHING': 1, 'EVALUATION': 1, 'MODELS': 2, 'ROUNDING': 1, 'CHARACTERIZATION': 2, 'INFORMATION': 1}
+{'XI': 1, 'CC': 1, 'UU': 1, 'UJ': 3, 'MH': 1, 'YY': 1, 'LO': 2, 'PC': 1, 'QC': 1, 'MN': 3} {'QD': 2, 'NX': 3, 'OQ': 2, 'DB': 1, 'FA': 1, 'ZP': 2, 'OR': 2, 'WA': 1, 'ZD': 1}
+{'ACCESS': 2, 'ABSTRACT': 2, 'Q': 2, 'SUBDIFFERENTIABILITY': 2, 'ACYCLIC': 1, 'ABSTRACTION': 2, 'INDISTINGUISHABILITY': 2, 'ABELIAN': 2} {'ALIGNMENT': 2, 'PSEUDOAPPROXIMATIONS': 1, 'ALLOCATION': 2, 'ABSTRACTION': 2, 'ALGEBRA': 2, 'ALGORITHMS': 2, 'ALGEBRAS': 2, 'PSEUDOTRIANGULATIONS': 2}
+{'WE': 2, 'XS': 2, 'CT': 2, 'NT': 2, 'PM': 2, 'UH': 2, 'AI': 2, 'HH': 1} {'WQ': 2, 'ZW': 2, 'OL': 2, 'AT': 2, 'TG': 2, 'DQ': 2, 'HK': 2, 'YB': 1}
+{'CB': 2, 'QR': 2, 'GZ': 2, 'ZP': 2, 'SC': 1, 'LX': 2, 'GM': 2, 'WS': 2} {'OC': 2, 'OJ': 2, 'MO': 2, 'OM': 2, 'TJ': 2, 'BT': 2, 'WB': 1, 'LV': 2}
+{'YY': 1, 'KS': 2, 'GE': 1, 'GB': 2, 'IU': 4, 'BU': 1, 'HO': 2, 'VP': 2, 'YL': 1} {'MA': 2, 'CC': 1, 'KU': 2, 'VM': 1, 'WV': 2, 'AK': 2, 'XO': 3, 'IP': 1, 'GT': 2}
+{'LS': 1, 'KV': 2, 'XG': 2, 'GP': 1, 'TF': 2, 'QX': 1, 'LV': 2, 'AI': 1, 'OX': 2} {'RT': 2, 'RM': 2, 'GS': 2, 'YI': 1, 'GG': 2, 'PL': 1, 'WY': 2, 'YD': 2}
+{'RY': 2, 'MH': 1, 'KB': 3, 'FY': 1, 'EO': 1, 'KG': 4, 'JT': 2} {'AL': 4, 'QT': 4, 'VQ': 2, 'PC': 4}
+{'ZQ': 1, 'AR': 1, 'AD': 2, 'OQ': 1, 'ZD': 1} {'SN': 2, 'VK': 1, 'BS': 2, 'UP': 1}
+{'NN': 2, 'GG': 1, 'QR': 2, 'DD': 1, 'EM': 3, 'CX': 2, 'EL': 2, 'PX': 2} {'MN': 1, 'HL': 2, 'JB': 1, 'JX': 1, 'OR': 1, 'TR': 3, 'JZ': 1, 'UQ': 4, 'HP': 1}
+{'UR': 2, 'YZ': 1, 'LU': 2, 'VV': 3, 'RK': 1, 'RO': 1, 'ND': 2, 'MV': 1, 'KS': 1, 'UW': 2} {'NI': 2, 'CD': 2, 'VR': 2, 'BM': 1, 'ZB': 1, 'QJ': 2, 'CR': 1, 'CW': 2, 'JD': 2, 'XG': 1}
+{'YU': 1, 'NR': 1, 'NH': 3, 'HW': 1, 'HC': 2, 'TQ': 1, 'XG': 2, 'PS': 1, 'NL': 2, 'MG': 2} {'PU': 2, 'KH': 1, 'BX': 2, 'IB': 3, 'AE': 1, 'PO': 2, 'KO': 2, 'TZ': 1, 'BQ': 1, 'LG': 1}
+{'AD': 1, 'HW': 1, 'QS': 2, 'FI': 2, 'HY': 2, 'DN': 2} {'HI': 1, 'SM': 1, 'HC': 2, 'SR': 1, 'OZ': 2, 'BD': 1, 'EE': 2}
+{'NI': 2, 'EK': 2, 'QY': 3, 'GW': 1, 'QK': 3, 'FX': 1} {'NE': 1, 'MY': 1, 'FX': 1, 'WT': 3, 'WS': 1, 'IR': 1, 'WZ': 1, 'SK': 2, 'JU': 1}
+{'YE': 2, 'KD': 4, 'JX': 1, 'JJ': 1, 'BY': 3, 'IC': 1, 'BU': 2, 'QB': 1} {'KT': 3, 'YZ': 2, 'TX': 1, 'RG': 1, 'TT': 1, 'QJ': 3, 'GC': 2, 'SE': 2}
+{'IH': 1, 'EL': 1, 'FD': 2, 'RS': 2, 'JR': 3, 'HD': 1, 'GH': 3, 'KS': 2} {'EN': 2, 'IC': 2, 'WQ': 1, 'EF': 2, 'TJ': 3, 'UW': 2, 'KO': 1, 'EE': 1, 'OE': 1}
+{'DF': 1, 'CQ': 1, 'CJ': 1, 'SC': 1, 'YF': 1, 'EA': 1, 'SQ': 2, 'CL': 2, 'ZZ': 1, 'MQ': 2, 'KM': 1} {'IF': 1, 'EN': 2, 'HL': 3, 'XR': 1, 'CN': 1, 'ZX': 1, 'RO': 1, 'JN': 1, 'EQ': 1, 'XO': 1, 'OP': 1}
+{'BZ': 1, 'OC': 1, 'LZ': 1, 'MY': 1, 'JB': 2, 'NZ': 2, 'CP': 1, 'WV': 1, 'AQ': 1, 'QN': 1, 'WZ': 1, 'YB': 2} {'MX': 1, 'KJ': 1, 'OA': 1, 'IG': 1, 'ZC': 1, 'UV': 1, 'RK': 2, 'BN': 2, 'PO': 2, 'VE': 1, 'FO': 1, 'YL': 1}
+{'XX': 2, 'LT': 3, 'WZ': 3, 'OT': 1, 'ZK': 2} {'NQ': 1, 'KG': 3, 'PH': 3, 'OD': 3, 'BA': 1}
+{'CF': 3, 'OT': 3, 'XM': 3} {'KA': 3, 'OT': 3, 'CT': 3}
+{'ORDER': 1, 'TRAJECTORY': 2, 'REPRESENTATION': 2, 'MULTIVARIATE': 2, 'HOMOTOPY': 1, 'STRUCTURAL': 1} {'LOGIC': 1, 'BUNDLES': 2, 'BOUNDARIES': 1, 'COMPLEXITY': 3, 'MEMBERSHIP': 2}
+{'OX': 2, 'IL': 1, 'QM': 1, 'ZV': 1, 'WF': 1, 'ZZ': 2, 'DW': 2, 'SJ': 2, 'FL': 1, 'FJ': 1, 'EU': 1} {'WN': 1, 'YC': 1, 'KP': 2, 'ZV': 1, 'TR': 2, 'RO': 4, 'UH': 2, 'BI': 1, 'MN': 1}
+{'YU': 4, 'OS': 3, 'XT': 4, 'IN': 4} {'UK': 4, 'XR': 3, 'RC': 4, 'GQ': 4}
+{'FX': 3, 'DV': 3, 'ML': 3, 'DH': 3} {'OH': 4, 'CW': 4, 'ES': 4}
+{'GX': 1, 'ZD': 1, 'AJ': 1, 'EH': 3, 'UP': 1, 'JA': 1, 'JE': 1, 'RR': 1, 'FK': 1, 'BD': 1, 'YB': 2, 'OE': 1} {'JW': 1, 'TY': 2, 'QW': 1, 'DG': 1, 'XA': 1, 'AL': 1, 'HQ': 1, 'ZA': 1, 'OT': 2, 'NY': 1, 'LQ': 2, 'KM': 1}
+{'PJ': 1, 'XR': 3, 'KI': 2, 'ST': 2, 'OR': 3, 'KO': 2, 'ZZ': 1, 'TI': 1} {'NT': 3, 'TG': 2, 'EC': 1, 'XW': 2, 'HG': 2, 'TE': 2, 'QB': 1, 'MM': 1, 'GI': 1}
+{'TRANSFORMATIVE': 3, 'BOUNDARY': 3, 'QUANTUM': 3} {'GRAVITY': 3, 'HERMENEUTICS': 3, 'TRANSGRESSION': 3}
+{'PZ': 3, 'CH': 3, 'EU': 3} {'EG': 3, 'ZV': 3, 'HN': 3}
+{'YG': 2, 'RM': 2, 'QP': 1, 'ZP': 1, 'UH': 3, 'PM': 2, 'WW': 2, 'AW': 1} {'OR': 1, 'VT': 1, 'VD': 2, 'SN': 2, 'GM': 2, 'MS': 1, 'LL': 2, 'JD': 1, 'SX': 2}
+{'GL': 2, 'YC': 1, 'KP': 3, 'NM': 2, 'TY': 1, 'AJ': 1, 'HO': 2, 'HX': 1, 'VX': 1} {'HF': 1, 'VT': 1, 'VD': 1, 'NM': 1, 'NG': 1, 'EF': 2, 'JZ': 3, 'IO': 3, 'VB': 1}
+{'YU': 2, 'PD': 3, 'JS': 2, 'TS': 1, 'HC': 1, 'VO': 3, 'GD': 2, 'YX': 2} {'FD': 1, 'EP': 1, 'KT': 1, 'WP': 1, 'NB': 1, 'LL': 1, 'PY': 1, 'IX': 1, 'UT': 3, 'TL': 2, 'EE': 2, 'IM': 1}
+{'EN': 2, 'ZC': 2, 'GQ': 1, 'MP': 1, 'GR': 2, 'HT': 1, 'UZ': 1, 'CZ': 1, 'JJ': 1, 'TA': 1, 'WN': 1} {'IJ': 1, 'JA': 1, 'KP': 2, 'QC': 2, 'CT': 2, 'CI': 1, 'EM': 1, 'IV': 1, 'XV': 1, 'YD': 1, 'HP': 1}
+{'QD': 3, 'VL': 3, 'EL': 1, 'MH': 2, 'KB': 2, 'EG': 1, 'FH': 1, 'WA': 1, 'GV': 2} {'WQ': 3, 'DZ': 1, 'TQ': 2, 'NF': 1, 'QY': 2, 'KZ': 2, 'NL': 2, 'FZ': 3}
+{'KH': 1, 'JH': 3, 'AS': 2, 'SC': 2, 'UG': 1, 'NG': 1, 'EX': 2, 'YK': 2, 'HD': 1} {'TH': 1, 'GJ': 4, 'GD': 1, 'GW': 1, 'OK': 1, 'TG': 2, 'XO': 2, 'WG': 1, 'RH': 2}
+{'NE': 2, 'HW': 2, 'DT': 2, 'MR': 1, 'VR': 2, 'FL': 2, 'FP': 2, 'UE': 2} {'PV': 2, 'DM': 2, 'OX': 2, 'FH': 2, 'UH': 2, 'LE': 1, 'JK': 2, 'OR': 2}
+{'EJ': 1, 'QD': 1, 'BR': 1, 'YO': 4, 'MR': 3, 'QN': 1, 'MS': 4} {'VL': 2, 'AR': 1, 'MF': 3, 'SF': 2, 'FK': 2, 'KG': 2, 'HH': 3}
+{'HL': 2, 'DT': 2, 'PK': 2, 'TW': 2, 'NT': 2, 'WM': 1, 'FY': 2, 'HP': 2} {'BB': 2, 'BP': 1, 'QK': 2, 'AZ': 2, 'IR': 2, 'AA': 2, 'WY': 2, 'ZJ': 2}
+{'VB': 1, 'IE': 2, 'AD': 2, 'EF': 2, 'XZ': 2, 'LL': 2, 'OD': 2, 'SU': 2} {'QV': 2, 'UJ': 2, 'ZX': 2, 'XX': 2, 'ML': 1, 'RV': 2, 'LA': 2, 'ZK': 2}
+{'AJ': 3, 'TM': 1, 'PL': 3, 'IL': 3, 'LL': 2} {'JW': 1, 'YM': 1, 'HL': 1, 'JA': 1, 'EI': 1, 'RE': 1, 'GC': 1, 'XE': 1, 'PN': 1, 'PP': 1, 'NZ': 2}
+{'MW': 1, 'JM': 1, 'HJ': 2, 'CW': 3, 'AB': 1, 'CJ': 1, 'PL': 1, 'FY': 1, 'KF': 1} {'MR': 3, 'ED': 1, 'ZI': 2, 'NX': 2, 'GV': 1, 'DN': 1, 'QB': 2}
+{'ASYMMETRIC': 2, 'COMMUNICATION': 2, 'CONTROL': 2, 'SCHEDULING': 2, 'INDEX': 2, 'SEPARABLE': 1, 'MINIMIZATION': 2, 'ASYMPTOTIC': 2} {'COUNTING': 2, 'TREEWIDTH': 2, 'EXPLORATION': 2, 'COUPLING': 2, 'MINIMIZATION': 2, 'TREES': 2, 'EQUILIBRIA': 1, 'CONSTRUCTIONS': 2}
+{'CH': 2, 'TY': 2, 'UY': 2, 'ZD': 2, 'OU': 2, 'EQ': 2, 'TZ': 2, 'QC': 1} {'BG': 2, 'DM': 2, 'VD': 2, 'QG': 1, 'SL': 2, 'VQ': 2, 'RD': 2, 'TI': 2}
