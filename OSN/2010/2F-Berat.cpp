@@ -14,6 +14,7 @@ int main() {
       b = min(b,w);
     }
   }
-  cout << b << " " << a << "\n";
+  if (a != 0 && b != 10001)
+    cout << b << " " << a << "\n";
   return 0;
 }
