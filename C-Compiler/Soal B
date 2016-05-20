@@ -1,0 +1,25 @@
+
+Dungeon
+Batas Run-time: 	1 detik / test-case
+Batas Memori: 	32 MB
+DESKRIPSI SOAL
+
+Saat ini Edgar sedang bermain game RPG yang mengadopsi cerita legenda suatu sinetron laga salah satu channel TV yang sangat terkenal(yang ada naga”nya itu lho). Suatu saat Edgar ingin menaklukkan suatu dungeon yang berisi N monster yang masing-masing dapat dikalahkan dengan mengeluarkan energi sebesar Ai, jika Edgar dapat menaklukkan dungeon tersebut, maka Edgar dapat menaklukkan hati dari pujaan hatinya, yakni Maridjah(NPC v:). Bantulah Edgar untuk mempersiapkan energi minimal yang dibutuhkan agar dapat menaklukkan dungeon tersebut dan dapat mengambil hati dari pujaan hatinya Maridjah(NPC v:).
+PETUNJUK MASUKAN
+
+Pada baris pertama terdiri dari sebuah bilangan N(1≤N≤100000) yang menyatakan banyak monster di dalam dungeon tersebut.
+
+N bilangan selanjutnya adalah Ai(1≤Ai≤1000000) , yakni besar energi yang dikeluarkan untuk mengalahkan monster tersebut.
+PETUNJUK KELUARAN
+
+Keluaran berupa sebuah bilangan yang menyatakan energi minimal yang dibutuhkan untuk menaklukkan dungeon tersebut.
+CONTOH MASUKAN
+
+9
+1 2 3 4 5 6 7 8 9
+
+CONTOH KELUARAN
+
+45
+
+

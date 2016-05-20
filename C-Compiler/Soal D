@@ -1,0 +1,72 @@
+
+Aji the Injoker
+Batas Run-time: 	1 detik / test-case
+Batas Memori: 	64 MB
+DESKRIPSI SOAL
+
+Alkisah diceritakan setelah bencana Echo Slam, Desa Dalangan, desa yang dihancurkan dengan Echo Slam kembali pulih seperti normal. Namun, banyak kejadian aneh dan mistis pasca kehancuran yang mem porak-porandakan desa. Di beberapa soal mendatang akan diceritakan mengenai masalah yang menimpa Desa Dalangan.
+
+Pada suatu hari, Desa Dalangan diserang oleh monster. Seluruh penduduk desa panik dibuatnya. Orang-orang berhamburan kesana kemari. Semua aktivitas lumpuh. Ditengah-tengah kehancuran, anak Padang yang tersesat sekaligus magician terkenal bernama Aji bereksperimen untuk membuat jurus – jurus yang digunakan untuk melawan monster. Namun elemen baru ini hanya dapat dibentuk terbentuk dengan kombinasi 3 elemen, yaitu Quas, Wex, dan Exort. Adapun kombinasi dari ketiga elemen ini menghasilkan beberapa jurus yang berbeda.
+
+Berikut adalah daftar jurus yang dapat dikeluarkan Aji berdasarkan elemen yang tersedia
+
+No 	Kombinasi Elemen		Nama Jurus
+1 	QQQ		Cold Snap
+2 	QQW		Ghost Walk
+3 	QQE		Ice Wall
+4 	WWW		EMP
+5 	WWQ		Tornado
+6 	WWE		Alacrity
+7 	EEE		Sun Strike
+8 	EEQ		Forged Spirit
+9 	EEW		Chaos Meteor
+10 	QWE		Deafening Blast
+
+Note : Q = Quas, W = Wex, E = Exort
+
+Adapun kombinasi elemen QQW, WQQ, QWQ dianggap sebagai satu kombinasi yang sama
+
+Dalam cerita ini, karena dalam keaadaan panik, Aji tidak dapat berkonsentrasi menyebutkan jurus apa yang akan dia keluarkan. Bantulah Aji untuk menghadapi monster tersebut!
+PETUNJUK MASUKAN
+
+Sebuah string yang panjangnya maksimal 100 karakter
+PETUNJUK KELUARAN
+
+Apabila kombinasi yang diberikan tidak valid, keluarkan “ERROR : (String yang diberikan) NOT FOUND” tanpa tanda petik
+
+Apabila kombinasi yang diberikan dapat menghasilkan suatu skill, keluarkan nama skill tersebut
+
+Jangan lupa selalu akhiri dengan enter disetiap akhir output
+CONTOH MASUKAN 1
+
+EEW
+
+CONTOH KELUARAN 1
+
+Chaos Meteor
+
+CONTOH MASUKAN 2
+
+WWQ
+
+CONTOH KELUARAN 2
+
+Tornado
+
+CONTOH MASUKAN 3
+
+WOW
+
+CONTOH KELUARAN 3
+
+ERROR : WOW NOT FOUND
+
+CONTOH MASUKAN 4
+
+GIRL
+
+CONTOH KELUARAN 4
+
+ERROR : GIRL NOT FOUND
+
+

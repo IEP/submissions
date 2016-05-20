@@ -1,0 +1,47 @@
+
+Lampu Merah
+Batas Run-time: 	1 detik / test-case
+Batas Memori: 	32 MB
+DESKRIPSI SOAL
+
+Suatu hari Udin membeli motor baru, motor yang sangat cepat. Dia ingin mengetes kecepatannya. Dia berencana untuk mengetes motornya di Jalan Raya Jogja. Jalan ini adalah jalan lurus yang terdapat beberapa lampu merah di tengahnya. Udin adalah orang yang patuh, sehingga dia pasti berhenti saat lampu merah. Dia ingin tahu berapa detik kah dia bisa mengendarakan motornya dari titik start ke finish jika terdapat N buah lampu merah di dalamnya, dan tiap lampu merah memiliki maksimum timer yang berbeda.
+
+Aturannya adalah seperti berikut:
+
+- Udin akan mengendarakan motornya dari titik start ke titik finish melewati beberapa lampu merah.
+
+- Dari titik start ke lampu merah pertama dan dari lampu merah terakhir ke titik finish, udin selalu tempuh dengan waktu 1 detik.
+
+- Dari lampu merah ke lampu merah lainnya yang berdekatan, udin juga selalu tempuh dengan waktu 1 detik.
+
+- Lampu hijau hanya akan menyala selama 1 detik, yaitu saat timer menunjukan angka 0. Setelah itu timer akan mereset ke angka maksimalnya.
+
+- Saat Udin berada di titik start, posisi timer semua lampu merah menunjukkan angka maksimalnya masing-masing.
+
+- Selama perjalanan, timer masing-masing lampu akan terus berjalan.
+PETUNJUK MASUKAN
+
+- Baris pertama berisi bilangan bulat N (1 ≤ N ≤ 10) yang menyatakan jumlah lampu merah yang ada di jalan tersebut.
+
+- Sebanyak N kali berikutnya merupakan input berupa integer Xi (0 ≤ N ≤ 10). Bilangan ini merepresentasikan angka maksimal di timer lampu merah ke-i.
+PETUNJUK KELUARAN
+
+- Satu buah bilangan bulat yang menyatakan waktu tercepat Udin dapat mencapai finish.
+CONTOH MASUKAN
+
+2
+3 5
+
+CONTOH KELUARAN
+
+6
+
+KETERANGAN
+
+- Udin mulai dari titik start dan bergerak ke lampu merah pertama dengan waktu 1 detik.
+- Saat sampai di lampu pertama, timernya akan menunjukan angka 2, sehingga dia harus menunggu selama 2 detik untuk lanjut bergerak ke lampu berikutnya.
+- Dari lampu pertama ke lampu kedua dia tempuh dengan waktu 1 detik.
+- Saat sampai di lampu kedua , timernya akan menunjukan angka 1, sehingga dia harus menunggu selama 1 detik untuk lanjut lagi.
+- Setelah lampu kedua, dia butuh 1 detik lagi untuk mencapai titik finish.
+- Sehingga dari start ke finish dia butuh waktu : 1+2+1+1+1=6.
+

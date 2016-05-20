@@ -1,0 +1,30 @@
+
+Belajar Menghitung
+Batas Run-time: 	1 detik / test-case
+Batas Memori: 	32 MB
+DESKRIPSI SOAL
+
+Edgar, anak dari pak Jonae, mengalami kesulitan dalam melakukan operasi perhitungan dua buah bilangan bulat. Karena pak Jonae sibuk dengan tugas negara yang ditanggungnya, pak Jonae meminta bantuan anda untuk membuat sebuah program yang dapat membantu Edgar untuk belajar berhitung, Bantulah pak Jonae untuk membuat program tersebut.
+PETUNJUK MASUKAN
+
+Masukan berupa 2 buah bilangan dengan masing-masing bilangan terdiri dari satu digit dan dapat berupa positif atau negatif, dan di tengah dua buah bilangan tersebut terdapat sebuah operasi perhitungan(+,-,*,/) dan masing-masing tidak dipisah dengan spasi. Dijamin tidak akan ada operasi pembagian dengan penyebutnya adalah 0 dan tidak ada perkalian dua bilangan yg masing-masing angkanya adalah 0
+PETUNJUK KELUARAN
+
+Keluaran berupa hasil operasi perhitungan dari masukan. Jika operasi perhitungannya adalah pembagian(/), maka keluarkan output dengan dua angka di belakang koma.
+CONTOH MASUKAN 1
+
+6/4
+
+CONTOH KELUARAN 1
+
+1.50
+
+CONTOH MASUKAN 2
+
+-1*4
+
+CONTOH KELUARAN 2
+
+-4
+
+

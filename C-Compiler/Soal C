@@ -1,0 +1,28 @@
+
+Operasi Maksimal
+Batas Run-time: 	1 detik / test-case
+Batas Memori: 	32 MB
+DESKRIPSI SOAL
+
+Diberikan N buah bilangan bulat. Tugas anda adalah membuat program untuk mencari bilangan terbesar yang dapat dihasilkan jika N buah bilangan itu dioperasikan. Operator yang dapat digunakan adalah kali,tambah,kurang dan bagi {*,+,-,/}. Urutan input ketika dioperasikan tidak bisa diubah dan perhitungan dilakukan satu per satu dari kiri.
+PETUNJUK MASUKAN
+
+- Baris pertama berisi bilangan bulat N (1≤ N ≤ 9) yang menyatakan jumlah bilangan bulat yang akan digunakan.
+
+- Sebanyak N kali berikutnya merupakan input berupa integer X (0≤ X ≤ 10). Bilangan ini yang nantinya akan dioperasikan.
+PETUNJUK KELUARAN
+
+- Satu buah bilangan bulat yang menyatakan nilai terbesar yang didapat dari N buah bilangan yang dioperasikan.
+CONTOH MASUKAN
+
+4
+8 2 4 3
+
+CONTOH KELUARAN
+
+192
+
+KETERANGAN
+
+Dari 4 buah bilangan tersebut, hasil operasi bilangan paling besar adalah 8x2x4x3=192.
+

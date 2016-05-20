@@ -1,0 +1,2 @@
+getline(cin,str);
+numeric_limits<int>\:\:min();

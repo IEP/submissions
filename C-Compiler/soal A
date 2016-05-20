@@ -1,0 +1,67 @@
+
+Echo Slam
+Batas Run-time: 	1 detik / test-case
+Batas Memori: 	32 MB
+DESKRIPSI SOAL
+
+Dota adalah salah satu game terpopuler masa kini. Di sini 5 pemain sebagai tim akan bertarung melawan 5 pemain lainnya. Setiap pemain akan bermain memakai satu hero. Satu tim terdiri atas beberapa karakter baik Hero maupun non-Hero. Non-Hero merupakan karakter yang dijalankan oleh komputer sebagai pembantu sebuah tim. Singkatnya, satu tim pemain yang terdiri dari 5 orang terdapat 5 karakter Hero dan beberapa karakter non-Hero yang membantu tim tersebut.
+
+Earthshaker adalah salah satu Hero di game Dota. Hero ini memiliki kemampuan bernama Echo Slam.
+
+Echo Slam adalah kemampuan spell yang memberikan damage total kepada setiap Hero lawan yang berada pada radius sekitarnya dengan aturan sebagai berikut:
+
+    270 damage ke setiap Hero lawan yang berada pada radius kurang dari atau sama dengan Echo Slam (5 petak) dari Earthshaker
+    Damage yang diterima akan ditambah sebanyak MxK. Di mana M adalah banyak karakter lawan baik Hero maupun non-Hero yang berada pada radius Echo Slam. Contohnya apabila ada 3 karakter lawan entah itu Hero atau non-Hero di radius Echo Slam maka tiap Hero akan menerima damage tambahan 3*K damage.
+    Apabila Earthshaker menggunakan suatu item bernama Aghanim’s Scepter maka dapat dihasilkan nilai K adalah 140 damage sedangkan jika tidak menggunakan item tersebut nilai K hanya 70 damage.
+    Apabila seorang Hero berada di radius kurang dari atau sama dengan 3 petak dari Earthshaker, maka dia akan terkena damage tambahan lagi bernama Aftershock sebanyak 150 damage.
+    Hit point suatu Hero akan berkurang sesuai dengan total damage yang dia terima. Seorang Hero dianggap mati jika hit point yang dia miliki mancapai nilai 0.
+
+Satu lagi yang telah menjadi default di Dota, setiap Hero memiliki 25% magic resistance yang artinya semua damage total dari Echo Slam akan dikurangi sebanyak 25%. Perlu dicatat Damage total di atas akan diterima setiap Hero lawan yang berada pada radius Echo Slam secara bersamaan.
+
+Diketahui posisi Earthshaker saat ini dinyatakan pada koordinat kartesius (x,y). Diketahui juga pasti terdapat 5 hero dengan posisi masing masing hero ke-i (pi,qi) dan hit point hi yang menyatakan hit point pada hero ke i. Diketahui juga terdapat beberapa karakter non-Hero dengan posisi masing masing non-Hero ke i (ci,di).
+Tentukan banyak Hero yang mati dibunuh Earthshaker dengan Echo Slamnya
+PETUNJUK MASUKAN
+
+Baris pertama berisi 2 bilangan x dan y. 5 baris selanjutnya masing masing berisi 3 bilangan yaitu pi, qi, dan hi(1000 ≤ hi ≤ 20000). Baris selanjutnya berisi satu bilangan N (1≤N≤100) yang menyatakan banyak non-Hero. dengan N Baris selanjutnya berisi masing masing 2 bilangan ci dan di. Baris terakhir berisi string “Ya” atau “Tidak” menyatakan apakah Earthshaker membawa item Aghanim’s Scepter atau tidak. Untuk seluruh koordinat (-100≤ x,y ≤100)
+PETUNJUK KELUARAN
+
+Keluaran adalah banyaknya hero musuh yang mati dibunuh Earthshaker dengan format sebagai berikut:
+
+Apabila tidak ada hero yang mati keluarkan “NOOB” tanpa tanda petik (“”)
+
+Apabila 1 hero mati keluarkan “NOT BAD” tanpa tanda petik (“”)
+
+Apabila 2 hero mati keluarkan “DOUBLE KILL” tanpa tanda petik (“”)
+
+Apabila 3 hero mati keluarkan “TRIPLE KILL” tanpa tanda petik (“”)
+
+Apabila 4 hero mati keluarkan “ULTRA KILL” tanpa tanda petik (“”)
+
+Apabila 5 hero mati keluarkan “RAMPAGE” tanpa tanda petik (“”)
+
+CONTOH MASUKAN
+
+0 0
+1 1 1000
+-1 -1 1000
+2 2 1000
+-2 -2 1000
+5 5 1000
+3
+2 2
+3 3
+1 1
+YA
+
+CONTOH KELUARAN
+
+ULTRA KILL
+
+PENJELASAN TESTCASE
+
+Baris pertama menyatakan posisi Earthshaker pada koordinat yaitu posisi (0,0) setelah itu lima baris selanjutnya yaitu posisi hero adalah pada koordinat (1,1),(-1,-1),(2,2),(-2,-2),(5,5) dengan Hit point hero masing masing sama, yakni 1000.
+
+Setelah itu terdapat 3 non-Hero pada koordinat (2,2),(3,3),(1,1).
+
+Dari koordinat yang diberikan, dapat kita ketahui bahwa banyak hero yang masuk ke radius Echo Slam (5 petak) terdapat 4 hero. Dan terdapat pula 3 non-Hero yang masuk radius Echo Slam. Sehingga total karakter yang masuk dalam radius Echo Slam ada 7 karakter. Selain itu keempat hero tersebut juga masuk radius Aftershock. Akibatnya 4 hero itu masing-masing akan terkena damage sebesar 270+7*140+150=1400 damage. Karena masing-masing hero mempunyai magic resistance 25% maka damage 1400 akan dikurangi sebanyak 25% yaitu 350. Jadi total damage masing masing hero adalah 1050. sehingga mereka berempat akan mati semua.
+

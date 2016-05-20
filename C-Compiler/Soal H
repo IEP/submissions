@@ -1,0 +1,37 @@
+
+Melayani Bencong
+Batas Run-time: 	1 detik / test-case
+Batas Memori: 	64 MB
+DESKRIPSI SOAL
+
+Aji the Injoker, seorang magician yang mana namanya langsung mencuat setelah dia berhasil mengalahkan monster yang tiba tiba menyerang desa Dalangan. Karena kesaktiannya, Aji diberikan sebuah perlakuan yang sangat spesial di desa tersebut. Semua penduduk desa menghormatinya. Namun dibalik kesuksesan Aji, terdapat orang yang membantu Aji dengan sepenuh hati. Mereka sangat low profile. Itulah Ame dan Ahsin.
+
+Mereka sangat mensupport Aji dari awal penyerangan monster sampai akhir penyerangan. Namun mereka tidak mendapatkan perlakuan yang sama spesialnya oleh Aji. Itu yang membuat mereka keluar dari team Aji membentuk tim sendiri. Suatu saat disaat mereka sedang lapar di malam hari, mereka tidak peduli akan gendut, mereka pergi menuju nasi goreng Padmanaba untuk membeli nasi goreng. Disaat mereka menunggu pesanan, hal yang tidak menyenangkan terjadi.
+
+Terdapat orang laki – laki memakai baju ketat dan hotpants dengan dandanan menor dan menjijikkan menuju Ahsin dan menggoda Ahsin. Tentu saja hal ini membuat Ame ilfeel. Namun tidak demikian dengan Ahsin yang sepertinya keenakan dan menyukai hal tersebut. Melihat ada sesuatu yang tidak beres, Ame menyadari bencong tersebut menggunakan guna – guna untuk merebut Ahsin darinya. Konon bencong tersebut akan pergi apabila dilayani yang dalam arti lain diberi recehan uang.
+
+Namun bencong ini tidak ingin menerima sembarang nominal. Bencong bencong ini ingin meminta semua uang yang dapat diberikan. Namun Ame menegosiasi hal tersebut dan akhirnya terjadi kesepakatan Ame akan memberikan setiap bencong setengah dari total uang yang dimiliki Ame. Karena tidak ingin rugi, uang yang dimiliki Ame setelah melayani bencong harus tidak kurang dari uang yang diberikan ke bencong. Dan juga bencong dipastikan akan menerima minimal Rp 1.
+
+Ternyata bencong di Padmanaba tidak hanya satu. Terpaksa Ame harus melayani semua bencong agar Ahsin tidak diculik bencong tersebut. Apabila Ame tidak bisa memberikan uang berapapun pada seorang bencong, maka Ame gagal. Apakah Ame dapat melayani semua bencong yang ada di Padmanaba dengan uang yang dia punya demi menyelamatkan Ahsin?
+PETUNJUK MASUKAN
+
+Baris pertama adalah sebuah bilangan bulat x dengan 0 ≤ x < 1000000 yang mana menyatakan banyak uang Ame yang dimiliki.
+
+Setelah x, diikuti dengan spasi, bilangan y dengan nilai 0 ≤ y < 1000000 yang mana menyatakan banyak bencong yang harus dilayani di Padmanaba.
+PETUNJUK KELUARAN
+
+Keluarkan “YA” tanpa tanda petik apabila Ame berhasil melayani semua bencong dan “TIDAK” apabila Ame gagal dan Ahsin diculik :’(
+
+Jangan lupa memberikan enter di akhir kalimat
+CONTOH MASUKAN
+
+14 3
+
+CONTOH KELUARAN
+
+YA
+
+PENJELASAN
+
+Terdapat 3 bencong pada kasus ini. Ame mempunyai 14 rupiah. Pada bencong pertama, Ame memberikan 7 rupiah dan Ame masih punya 7 rupiah. Pada bencong kedua, Ame memberikan 3 rupiah kepada bencong agar Ame mempunyai 4 rupiah. Pada bencong ketiga, Ame memberikan 2 rupiah ke bencong dan Ame masih mempunyai 2 rupiah lagi. Karena semua bencong Padmanaba sudah pergi, Ame berhasil.
+
