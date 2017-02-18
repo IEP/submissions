@@ -19,6 +19,7 @@ int collatz(unsigned long long n) {
 }
 
 int main() {
+  //ios_base::sync_with_stdio(0); cin.tie(0);
   int res, temp = 0;
   pair<int,int> maks;
   co = {{1,1}};
