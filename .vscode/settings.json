@@ -1,4 +1,13 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-  "python.linting.pylintEnabled": false
+  "python.linting.pylintEnabled": false,
+  "files.associations": {
+    "array": "cpp",
+    "bitset": "cpp",
+    "initializer_list": "cpp",
+    "string_view": "cpp",
+    "utility": "cpp",
+    "valarray": "cpp"
+  },
+  "python.promptToInstallJupyter": false
 }

@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 def check(n):
     temp = str(n)[::-1]
     last = temp[0]
@@ -19,7 +19,6 @@ def pss(n):
                     temp[j] = '9'
                 break
     return int(''.join(temp))
-
 
 for T in range(1, int(input())+1):
     num = int(input())
