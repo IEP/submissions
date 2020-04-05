@@ -9,5 +9,6 @@
     "utility": "cpp",
     "valarray": "cpp"
   },
-  "python.promptToInstallJupyter": false
+  "python.promptToInstallJupyter": false,
+  "python.pythonPath": "/bin/python"
 }
